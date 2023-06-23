@@ -1,7 +1,7 @@
 # Portfolio
 
 Home Page:
-![image](https://github.com/SanjheyHariramSA/Portfolio/assets/85211820/10fbb628-e838-4946-8364-5a28f968fe0e)
+![image](https://github.com/SanjheyHariramSA/Portfolio/assets/85211820/90cc0ea6-0466-4168-a709-cc0e4ef54f4c)
 About Page:
 ![image](https://github.com/SanjheyHariramSA/Portfolio/assets/85211820/688774a8-aaa3-4a0d-a378-85f062e363ca)
 Skills Page:
